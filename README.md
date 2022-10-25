@@ -1,8 +1,8 @@
 ### 👋 Hi, I’m Lakdilu Abeysinghe
 
-<h3 align="center"> I'm a personal who love to seek problams and give solitions from new tech & trends with creative Art. </h3>
+<h3 align="center"> I'm a person who loves to seek problems and give solutions from new tech & trends with creative Art. </h3>
 
-- ⚡ I'm **3rd year Engineering Undergraduate** in major of **Electronic and Telecommunication Engineering** at Unversity of Moratuwa
+- ⚡ I'm **3rd year Engineering Undergraduate** in major of **Electronic and Telecommunication Engineering** at the **University of Moratuwa**
 
 - 👀 I’m highly interested in **Machine Learning / AI, Software Engineering, FPGA**
 
