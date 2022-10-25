@@ -1,8 +1,15 @@
-- 👋 Hi, I’m Lakdilu Abeysinghe
+### 👋 Hi, I’m Lakdilu Abeysinghe
+
 <h3 align="center"> I'm a personal who love to seek problams and give solitions from new tech & trends with creative Art. </h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LakdiluA12X&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="LakdiluA12X" /> </p>
+
+- ⚡ I'm **3rd year Engineering Undergraduate** in major of **Electronic and Telecommunication Engineering** at Unversity of Moratuwa
+
 - 👀 I’m highly interested in **Machine Learning / AI, Software Engineering, FPGA**
-- 🌱 I’m currently learning **Machine Learning / AI, Game and Mobile App Development, DevOps, Web Development** fields with **Python, Pycharm, Java, JavaScript, React** ...
-<!-- - 💞️ I’m looking to collaborate on ... -->
+
+- 🌱 I’m currently learning **Machine Learning / AI, Game and Mobile App Development, DevOps, Web Development** fields with **Python, Pycharm, Java, JavaScript, React**
+
 - 📫 How to reach me: **lakdiluabesingha@gmail.com**
 
 - <h3 align="left">Connect with me:</h3>
