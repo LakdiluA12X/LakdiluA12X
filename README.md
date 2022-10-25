@@ -2,8 +2,6 @@
 
 <h3 align="center"> I'm a personal who love to seek problams and give solitions from new tech & trends with creative Art. </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=LakdiluA12X&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="LakdiluA12X" /> </p>
-
 - ⚡ I'm **3rd year Engineering Undergraduate** in major of **Electronic and Telecommunication Engineering** at Unversity of Moratuwa
 
 - 👀 I’m highly interested in **Machine Learning / AI, Software Engineering, FPGA**
@@ -19,6 +17,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.com" target="_blank" rel="noreferrer"> <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/programming%20languages/python.svg" alt="python" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=LakdiluA12X&label=Profile%20views&color=brightgreen&style=for-the-badge" alt="LakdiluA12X" /> </p>
 
 
 <!---
